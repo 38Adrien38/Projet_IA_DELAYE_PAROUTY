@@ -1,0 +1,6 @@
+/data
+/ganData
+saved_models/
+*.pth
+*.csv
+*.png
