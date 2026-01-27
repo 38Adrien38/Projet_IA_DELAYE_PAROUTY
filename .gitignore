@@ -4,3 +4,4 @@ saved_models/
 *.pth
 *.csv
 *.png
+*.npy
