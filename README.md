@@ -14,8 +14,9 @@ Sur ce GitHub, vous trouverez plusieurs notebooks présentant des solutions à n
 
 - Approche supervisée via U-Net
 - Approche non supervisée via K-means
+- Approche hybride avec K-means et Random Forest
 - Augmentation de données via cGAN
-- ... 
+- Approche supervisée plus adaptée au few shot learning via PANet 
 
 
 ## Utilisation
